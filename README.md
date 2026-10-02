@@ -77,7 +77,7 @@ aiful-business-forecast/
 Requires **Python 3.12+** (tested on 3.13).
 
 ```bash
-git clone https://github.com/<your-username>/aiful-business-forecast.git
+git clone https://github.com/Riyaarif01/aiful-business-forecast.git
 cd aiful-business-forecast
 python -m venv .venv
 .venv\Scripts\activate          # Windows  (macOS/Linux: source .venv/bin/activate)
