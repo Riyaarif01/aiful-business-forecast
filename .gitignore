@@ -1,0 +1,19 @@
+# Raw IR PDFs are NOT republished (see README -> Data & licensing). Re-create them with:
+#   python src/download_data.py
+data/raw/*
+!data/raw/.gitkeep
+
+# Python / Jupyter clutter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

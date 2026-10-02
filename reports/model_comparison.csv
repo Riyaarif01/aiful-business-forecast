@@ -1,0 +1,10 @@
+,,Backtest MAPE %,Backtest RMSE,Backtest bias %,SARIMA 80% band hit-rate %,Test MAPE %,Test RMSE,Test bias %
+Unsecured loan balance (¥mn),Seasonal naive,8.2,45357.88,8.2,,7.72,49945.73,7.72
+Unsecured loan balance (¥mn),SARIMA,1.25,7997.02,0.51,90.74,1.5,11727.9,-1.5
+Unsecured loan balance (¥mn),Prophet,2.21,12457.47,1.98,,0.71,5595.23,-0.71
+Applications,Seasonal naive,20.0,17077.28,9.45,,3.62,3724.44,0.67
+Applications,SARIMA,17.63,14629.09,-1.36,73.15,4.52,4436.68,-1.84
+Applications,Prophet,23.93,19357.28,-6.22,,14.64,13058.52,-14.64
+New accounts,Seasonal naive,17.65,5107.1,6.38,,7.94,2314.21,-6.84
+New accounts,SARIMA,15.88,4522.76,-2.87,79.63,11.78,3062.2,-8.97
+New accounts,Prophet,23.93,6501.41,-3.8,,23.82,5971.63,-23.82
